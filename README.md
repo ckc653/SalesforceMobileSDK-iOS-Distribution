@@ -1,4 +1,6 @@
 # {DEPRECATED}
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fckc653%2FSalesforceMobileSDK-iOS-Distribution.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fckc653%2FSalesforceMobileSDK-iOS-Distribution?ref=badge_shield)
+
 
 # Salesforce Mobile SDK for iOS — Distribution
 
@@ -86,3 +88,7 @@ Now you are ready to use the Salesforce Mobile SDK in your existing app. To laun
 - Launch the Mobile SDK
 
     `[[SalesforceSDKManager sharedManager] launch];`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fckc653%2FSalesforceMobileSDK-iOS-Distribution.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fckc653%2FSalesforceMobileSDK-iOS-Distribution?ref=badge_large)
